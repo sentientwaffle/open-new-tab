@@ -1,0 +1,16 @@
+{
+  "name": "open-new-tab",
+  "version": "0.0.0",
+  "description": "browserify module to open a URL in a new browser tab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "browserify"
+  ],
+  "author": "sentientwaffle",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
