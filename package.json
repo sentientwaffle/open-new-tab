@@ -1,6 +1,6 @@
 {
   "name": "open-new-tab",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "browserify module to open a URL in a new browser tab",
   "main": "index.js",
   "scripts": {
