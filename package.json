@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sentientwaffle/open-new-tab.git"
+  },
+  "homepage": "https://github.com/sentientwaffle/open-new-tab",
   "keywords": [
     "browserify"
   ],
